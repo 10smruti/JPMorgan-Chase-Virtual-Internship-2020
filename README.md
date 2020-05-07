@@ -1,1 +1,1 @@
-# -JPMorgan-Chase-Software-Engineering-Virtual-Internship-2020-1-0-0
+# JPMorgan-Virtual-Internship-2020
